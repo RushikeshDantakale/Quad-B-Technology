@@ -1,0 +1,61 @@
+.main-div{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height:50px;
+    background-color: #2e3241;
+    color:#474a4f ;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.sr_no_value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0.4;
+    height: 100%;
+    background-color: #2e3241;
+    color:white ;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.name_value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    height: 100%;
+    background-color: #2e3241;
+    color:white ;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.buy_sell_value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1.5;
+    height: 100%;
+    background-color: #2e3241;
+    color:white ;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.base_unit_value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0.8;
+    height: 100%;
+    background-color: #2e3241;
+    color:white ;
+    font-size: 22px;
+    font-weight: 600;
+}

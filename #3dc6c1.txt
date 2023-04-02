@@ -1,0 +1,9 @@
+#3dc6c1 -button
+#2e3241
+#7a7c83
+#3cc2be - horlding
+#6e7078 - .com
+#808288 - buy-sell price
+#2c7679  - finstreet
+#474a4f - powered by
+#191d28 - body
